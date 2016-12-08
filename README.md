@@ -15,7 +15,9 @@ JAQPOT QUATTRO API
 --------------------------------------------------------------------------------------------------------
 HOW TO USE ALL AVAILABLE FUNCTIONALITIES OF THE JAQPOT QUATTRO WEB APPLICATION
 http://www.enanomapper.net/library/jaqpot-quattro-api
+
 IMAGE DESCRIPTOR 
+--------------------------------------------------------------------------------------------------------
 IMAGE DESCRIPTOR CALCULATION WEB TOOL
 http://www.enanomapper.net/library/image-descriptor-tutorial
 
