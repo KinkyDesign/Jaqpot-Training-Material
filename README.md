@@ -1,6 +1,9 @@
 # Jaqpot-Training-Material
 Training material for users and developers of Jaqpot
 
+AND WORKSHOPS!!
+-------------
+
 MODELLING SERVICES
 --------------------------------------------------------------------------------------------------------
 Create dataset, train a model, make a prediction, validate (split, cross or external)
