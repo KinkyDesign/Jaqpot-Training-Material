@@ -3,22 +3,22 @@ Training material for users and developers of Jaqpot
 
 MODELLING SERVICES
 --------------------------------------------------------------------------------------------------------
-CREATE DATASET, TRAIN A MODEL, MAKE A PREDICTION, VALIDATE (SPLIT, CROSS OR EXTERNAL)
+Create dataset, train a model, make a prediction, validate (split, cross or external)
 http://www.enanomapper.net/library/modelling-services
 
 JAQPOT QUATTRO UI
 --------------------------------------------------------------------------------------------------------
-HOW TO USE THE JAQPOT QUATTRO USER INTERFACE TO CREATE AND VALIDATE NANOQSAR MODELS
+How to use the jaqpot quattro user interface to create and validate nanoQSAR models
 http://www.enanomapper.net/library/jaqpot-quattro-ui
 
 JAQPOT QUATTRO API
 --------------------------------------------------------------------------------------------------------
-HOW TO USE ALL AVAILABLE FUNCTIONALITIES OF THE JAQPOT QUATTRO WEB APPLICATION
+How to use all available functionalities of the jaqpot quattro web application
 http://www.enanomapper.net/library/jaqpot-quattro-api
 
 IMAGE DESCRIPTOR 
 --------------------------------------------------------------------------------------------------------
-IMAGE DESCRIPTOR CALCULATION WEB TOOL
+Image descriptor calculation web tool
 http://www.enanomapper.net/library/image-descriptor-tutorial
 
 RREGRS PACKAGE 
