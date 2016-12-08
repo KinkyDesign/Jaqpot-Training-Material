@@ -23,7 +23,3 @@ IMAGE DESCRIPTOR
 --------------------------------------------------------------------------------------------------------
 Image descriptor calculation web tool
 http://www.enanomapper.net/library/image-descriptor-tutorial
-
-RREGRS PACKAGE 
---------------------------------------------------------------------------------------------------------
-http://www.enanomapper.net/library/rregrs-package-tutorial
